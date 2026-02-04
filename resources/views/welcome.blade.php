@@ -18,7 +18,6 @@
             letter-spacing: -0.01em;
         }
 
-        /* Glassmorphism Ultra */
         .glass-premium {
             background: rgba(255, 255, 255, 0.7);
             backdrop-filter: blur(25px) saturate(200%);
