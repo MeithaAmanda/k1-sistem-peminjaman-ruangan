@@ -123,8 +123,12 @@ Dengan RoomEase, seluruh data peminjaman tersimpan secara terpusat dan dapat dip
 ---
 
 ### Login & Register
-![Login](public/img/login.png)
-![Register](public/img/register.png)
+### Login
+<img src="https://github.com/user-attachments/assets/xxxxx" width="800"/>
+
+### Register
+<img src="https://github.com/user-attachments/assets/yyyyy" width="800"/>
+
 
 ---
 
