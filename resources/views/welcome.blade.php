@@ -86,9 +86,9 @@
     <div class="orb-blur w-[600px] h-[600px] bg-indigo-50 bottom-[-10%] left-[-5%]"></div>
 
     <nav class="fixed w-full z-[100] glass-premium border-b border-slate-100/50">
-        <div class="container mx-auto flex justify-between items-center py-6 px-8 md:px-16">
+        <div class="container mx-auto flex justify-between items-center py-5 px-8 md:px-16">
             <div class="flex items-center gap-6">
-                <img src="https://itg.ac.id/wp-content/uploads/2021/08/logo-itg.png" alt="Logo ITG" class="h-10 grayscale brightness-50">
+                <img src="https://tse2.mm.bing.net/th/id/OIP.zegitDGV_G-5xjqHrWs7lAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Logo ITG" class="h-12 w-auto object-contain">
                 <div class="w-[1px] h-6 bg-slate-200 hidden md:block"></div>
                 <h1 class="text-sm font-extrabold tracking-[0.4em] uppercase text-slate-900">RoomEase<span class="font-light text-slate-400 italic">.v1</span></h1>
             </div>
@@ -111,20 +111,20 @@
         </div>
     </nav>
 
-    <header class="relative pt-64 pb-32 hero-container">
+    <header class="relative pt-48 pb-16 hero-container">
         <div class="container mx-auto px-8 md:px-16">
-            <div class="flex flex-col lg:flex-row items-center justify-between gap-24">
+            <div class="flex flex-col lg:flex-row items-center justify-between gap-16">
                 <div class="lg:w-7/12 relative z-10">
-                    <div class="flex items-center gap-4 mb-12 translate-y-[-20px] opacity-0 animate-[fadeIn_1s_ease-out_forwards]">
+                    <div class="flex items-center gap-4 mb-8 translate-y-[-20px] opacity-0 animate-[fadeIn_1s_ease-out_forwards]">
                         <span class="w-12 h-[1px] bg-blue-600"></span>
                         <span class="text-[10px] font-bold tracking-[0.5em] text-blue-600 uppercase">Elite Campus Resource Management</span>
                     </div>
                     
-                    <h2 class="text-7xl md:text-9xl font-extrabold leading-[0.85] tracking-[-0.06em] text-slate-950 mb-12">
+                    <h2 class="text-6xl md:text-8xl font-extrabold leading-[0.85] tracking-[-0.06em] text-slate-950 mb-8">
                         Seamless <br><span class="gradient-text">Experiences.</span>
                     </h2>
                     
-                    <p class="text-slate-400 text-xl md:text-2xl font-light leading-relaxed max-w-2xl mb-16 tracking-wide">
+                    <p class="text-slate-400 text-lg md:text-xl font-light leading-relaxed max-w-2xl mb-12 tracking-wide">
                         Sistem reservasi terpadu untuk <span class="text-slate-900 font-medium">Rapat Eksekutif</span>, <span class="text-slate-900 font-medium">Konferensi</span>, dan <span class="text-slate-900 font-medium">Kegiatan Akademik</span> unggulan ITG.
                     </p>
                     
@@ -138,10 +138,10 @@
 
                 <div class="lg:w-5/12 relative">
                     <img src="https://tse4.mm.bing.net/th/id/OIP.wX0IeUfdpPDubpWoxb30pwHaCd?rs=1&pid=ImgDetMain" 
-                         class="hero-mask w-full h-[600px] object-cover grayscale">
+                         class="hero-mask w-full h-[500px] object-cover grayscale">
                     
-                    <div class="absolute top-1/2 left-0 -translate-x-12 translate-y-12 bg-white/40 backdrop-blur-3xl p-10 rounded-[3rem] border border-white/50 shadow-2xl animate-float">
-                        <div class="space-y-6">
+                    <div class="absolute top-1/2 left-0 -translate-x-12 translate-y-12 bg-white/40 backdrop-blur-3xl p-8 rounded-[3rem] border border-white/50 shadow-2xl animate-float">
+                        <div class="space-y-4">
                             <div class="flex items-center gap-4">
                                 <div class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></div>
                                 <p class="text-[10px] font-bold tracking-widest uppercase text-slate-500">System Ready</p>
@@ -154,63 +154,51 @@
         </div>
     </header>
 
-    <section class="container mx-auto px-8 md:px-16 py-40">
+    <section class="container mx-auto px-8 md:px-16 py-20">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-8">
             
-            <div class="md:col-span-8 bento-card p-16 rounded-[4rem] relative overflow-hidden group">
+            <div class="md:col-span-8 bento-card p-12 rounded-[3.5rem] relative overflow-hidden group">
                 <div class="relative z-10 flex flex-col h-full justify-between">
                     <div>
-                        <div class="w-16 h-16 bg-slate-50 rounded-2xl flex items-center justify-center mb-10 group-hover:bg-blue-600 transition-colors duration-500">
-                            <svg class="w-8 h-8 text-slate-900 group-hover:text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path></svg>
+                        <div class="w-14 h-14 bg-slate-50 rounded-2xl flex items-center justify-center mb-8 group-hover:bg-blue-600 transition-colors duration-500">
+                            <svg class="w-7 h-7 text-slate-900 group-hover:text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path></svg>
                         </div>
-                        <h3 class="text-4xl font-extrabold mb-6 tracking-tighter italic">Grand Events & Seminar</h3>
-                        <p class="text-slate-400 text-lg font-light max-w-md leading-relaxed">Pesan Aula Utama atau Auditorium untuk acara berskala besar dengan kapasitas ribuan peserta dan fasilitas VIP.</p>
+                        <h3 class="text-3xl font-extrabold mb-4 tracking-tighter italic">Grand Events & Seminar</h3>
+                        <p class="text-slate-400 text-base font-light max-w-md leading-relaxed">Pesan Aula Utama atau Auditorium untuk acara berskala besar dengan kapasitas ribuan peserta dan fasilitas VIP.</p>
                     </div>
-                    <a href="{{ route('bookings.index') }}?type=event" class="mt-12 text-[10px] font-black uppercase tracking-[0.4em] text-blue-600">Request Access →</a>
+                    <a href="{{ route('bookings.index') }}?type=event" class="mt-8 text-[10px] font-black uppercase tracking-[0.4em] text-blue-600">Request Access →</a>
                 </div>
             </div>
 
-            <div class="md:col-span-4 bento-card p-12 rounded-[4rem] group border-blue-50">
-                <div class="w-12 h-12 bg-slate-50 rounded-xl flex items-center justify-center mb-8">
+            <div class="md:col-span-4 bento-card p-10 rounded-[3.5rem] group border-blue-50">
+                <div class="w-12 h-12 bg-slate-50 rounded-xl flex items-center justify-center mb-6">
                     <svg class="w-6 h-6 text-slate-900" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656 Re.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path></svg>
                 </div>
-                <h3 class="text-2xl font-extrabold mb-4 tracking-tight">Executive Rapat</h3>
+                <h3 class="text-xl font-extrabold mb-3 tracking-tight">Executive Rapat</h3>
                 <p class="text-slate-400 text-sm font-light leading-relaxed">Ruang kedap suara dengan sistem Smart-TV dan konferensi video terintegrasi.</p>
             </div>
-
-            <div class="md:col-span-12 bento-card p-12 rounded-[4rem] flex flex-col md:flex-row items-center justify-between gap-10">
-                <div class="max-w-xl">
-                    <h3 class="text-3xl font-extrabold mb-4 italic tracking-tight">Academic Space & Labs</h3>
-                    <p class="text-slate-400 text-sm font-light leading-relaxed">Dukungan penuh untuk riset dan perkuliahan. Booking laboratorium komputer atau ruang kelas tambahan secara instan.</p>
-                </div>
-                <div class="flex gap-4">
-                    <div class="h-16 w-16 bg-slate-100 rounded-full flex items-center justify-center text-slate-900 font-bold">Lab</div>
-                    <div class="h-16 w-16 bg-slate-100 rounded-full flex items-center justify-center text-slate-900 font-bold">Edu</div>
-                </div>
-            </div>
-
         </div>
     </section>
 
-    <footer class="bg-white pt-40 pb-20 border-t border-slate-50">
+    <footer class="bg-white pt-20 pb-16 border-t border-slate-50">
         <div class="container mx-auto px-16">
-            <div class="flex flex-col md:flex-row justify-between items-start gap-20 mb-32">
-                <div class="space-y-8">
-                    <img src="https://itg.ac.id/wp-content/uploads/2021/08/logo-itg.png" class="h-10 grayscale opacity-40">
+            <div class="flex flex-col md:flex-row justify-between items-start gap-16 mb-20">
+                <div class="space-y-6">
+                    <img src="https://tse2.mm.bing.net/th/id/OIP.zegitDGV_G-5xjqHrWs7lAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" class="h-12 w-auto object-contain">
                     <p class="text-slate-300 text-xs font-light tracking-[0.3em] uppercase">Architecture of Academic Excellence.</p>
                 </div>
-                <div class="flex gap-24">
-                    <div class="space-y-6">
+                <div class="flex gap-20">
+                    <div class="space-y-4">
                         <p class="text-[10px] font-black uppercase tracking-[0.4em] text-slate-900">Inquiry</p>
                         <p class="text-slate-400 text-sm font-light">sarpras@itg.ac.id</p>
                     </div>
-                    <div class="space-y-6">
+                    <div class="space-y-4">
                         <p class="text-[10px] font-black uppercase tracking-[0.4em] text-slate-900">Legal</p>
                         <p class="text-slate-400 text-sm font-light">Privacy & Policy</p>
                     </div>
                 </div>
             </div>
-            <div class="flex flex-col md:flex-row justify-between items-center gap-10">
+            <div class="flex flex-col md:flex-row justify-between items-center gap-8">
                 <p class="text-[9px] font-medium text-slate-200 uppercase tracking-[0.8em]">© 2026 RoomEase ITG. Masterpiece of Digital System.</p>
             </div>
         </div>
