@@ -117,7 +117,8 @@ Dengan RoomEase, seluruh data peminjaman tersimpan secara terpusat dan dapat dip
 ## 📸 Screenshot Aplikasi
 
 ### Landing Page
-![Landing Page](public/img/landing-page.png)
+<img width="1073" height="578" alt="landing page" src="https://github.com/user-attachments/assets/e59c5038-a701-4fdd-89b1-3042299f8bcd" />
+
 
 ---
 
