@@ -74,13 +74,13 @@
 
                         <div class="group">
                             <label class="text-[10px] font-black uppercase tracking-[0.2em] text-slate-400 mb-2 block ml-1 group-focus-within:text-amber-500">Penyelenggara (Himpunan/UKM)</label>
-                            <input type="text" name="organization" placeholder="Contoh: HMTI / BEM FT" required
+                            <input type="text" name="organization" placeholder="Contoh: NAMA ORMAWA / UKM" required
                                 class="form-input-custom w-full px-6 py-4 rounded-2xl text-base font-semibold text-slate-700">
                         </div>
 
                         <div class="group">
                             <label class="text-[10px] font-black uppercase tracking-[0.2em] text-slate-400 mb-2 block ml-1 group-focus-within:text-amber-500">Nama Agenda / Kegiatan</label>
-                            <input type="text" name="purpose" placeholder="Contoh: Seminar Nasional Teknologi" required
+                            <input type="text" name="purpose" placeholder="Contoh: Belajar Bersama Himpunan" required
                                 class="form-input-custom w-full px-6 py-4 rounded-2xl text-base font-semibold text-slate-700">
                         </div>
 

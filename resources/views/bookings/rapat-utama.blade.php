@@ -72,7 +72,7 @@
                         <input type="hidden" name="room_id" value="1"> 
                         <div class="group">
                             <label class="text-[10px] font-black uppercase tracking-[0.2em] text-slate-400 mb-2 block ml-1 group-focus-within:text-blue-600">Penyelenggara (Himpunan/UKM)</label>
-                            <input type="text" name="organization" placeholder="Contoh: HMTI / UKM Musik" required class="form-input-custom w-full px-6 py-4 rounded-2xl text-base font-semibold text-slate-700">
+                            <input type="text" name="organization" placeholder="Contoh: NAMA ORMAWA / UKM" required class="form-input-custom w-full px-6 py-4 rounded-2xl text-base font-semibold text-slate-700">
                         </div>
                         <div class="group">
                             <label class="text-[10px] font-black uppercase tracking-[0.2em] text-slate-400 mb-2 block ml-1 group-focus-within:text-blue-600">Nama Agenda / Kegiatan</label>

@@ -88,13 +88,13 @@
                         
                         <div class="group">
                             <label class="text-[10px] font-black uppercase tracking-[0.2em] text-slate-400 mb-2 block ml-1 group-focus-within:text-orange-500 transition-colors">Nama UKM / Tim</label>
-                            <input type="text" name="organization" value="{{ old('organization') }}" placeholder="Contoh: UKM Basket / Teknik FC" required
+                            <input type="text" name="organization" value="{{ old('organization') }}" placeholder="Contoh: NAMA ORMAWA / UKM" required
                                 class="form-input-custom w-full px-6 py-4 rounded-2xl text-base font-semibold text-slate-700 placeholder:text-slate-300">
                         </div>
 
                         <div class="group">
                             <label class="text-[10px] font-black uppercase tracking-[0.2em] text-slate-400 mb-2 block ml-1 group-focus-within:text-orange-500 transition-colors">Kegiatan</label>
-                            <input type="text" name="purpose" value="{{ old('purpose') }}" placeholder="Contoh: Latihan Rutin / Pertandingan Persahabatan" required
+                            <input type="text" name="purpose" value="{{ old('purpose') }}" placeholder="Contoh: Latihan Rutin / Mabim required
                                 class="form-input-custom w-full px-6 py-4 rounded-2xl text-base font-semibold text-slate-700 placeholder:text-slate-300">
                         </div>
 
